@@ -1,4 +1,4 @@
-# Project
+# Project password : shiki
 
 A small web project built with Vite, React (TypeScript), and TailwindCSS. It includes a lightweight UI and some utility scripts for ciphers, steganography, QR code, networking tools, and a terminal-like interface.
 
@@ -87,4 +87,5 @@ This project is released under the MIT License. See `LICENSE` for details.
 Contributing
 
 If you plan to contribute, please open issues or pull requests on the repository and include a short description of changes and a minimal reproduction where applicable.
+
 
